@@ -15,23 +15,24 @@
         "gradle":true
     },
     "cSpell.words": [
-        "devcontainers",
-        "vscjava",
-        "println",
-        "pikachu",
-        "pikachu's",
-        "raichu",
-        "raichu's",
+        "aeiou",
+        "arraysize",
+        "autofetch",
+        "Catchrate",
         "charizard",
         "charmander",
-        "mewtwo",
         "charmeleon",
         "deadend",
-        "Catchrate",
-        "McKibben",
+        "devcontainers",
         "diceware",
         "Diceware",
-        "arraysize",
-        "autofetch"
+        "McKibben",
+        "mewtwo",
+        "pikachu",
+        "pikachu's",
+        "println",
+        "raichu",
+        "raichu's",
+        "vscjava"
     ]
 }
